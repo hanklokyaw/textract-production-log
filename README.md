@@ -1,7 +1,7 @@
 ### parsers.py script is credited to Chirag Rathod (https://github.com/srcecde/aws-tutorial-code/tree/master/lambda), this project could not accomplish without his script.
 ### Thank you Chirag!
 
-1. Create your AWS S3 bucket
+1. Create your AWS API KEY and S3 bucket. Please see https://www.youtube.com/watch?v=LZ05aNHTbbE for detail instruction.
 2. Create a folder called Raw_JPG in the same path with this script
 3. Create a folder called Processed_JPG
 4. Create a folder called To_Merge
